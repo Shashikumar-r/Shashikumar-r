@@ -6,7 +6,7 @@
 
 <h2 style="font-family: Arial, sans-serif; color: #4CAF50;">👨‍💻 About Me</h2>
 <p align="justify">
-I am a recent B.E graduate in Computer Science and Engineering from <b>Vemana Institute of Technology</b>. My technical skills span across Python, data analysis, front-end development, basic machine learning, and basic back-end development. I have published a paper on an AI Image Generator and completed an internship as an AI/ML intern at Airobosoft Company. I enjoy creating CGI and VFX as a hobby, which has further enhanced my creative and technical abilities.
+I am a recent B.E graduate in Computer Science and Engineering from <b>Vemana Institute of Technology</b>. My technical skills span across Python, data analysis, front-end development, machine learning, and Aspiring Data Scientist. I have published a paper on an AI Image Generator and completed an internship as an AI/ML intern at Airobosoft Company. I enjoy creating CGI and VFX as a hobby, which has further enhanced my creative and technical abilities.
 </p>
 <hr>
 
